@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="modpack">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/CustomNPC-Plus-1.9.3-beta2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/PluginMod-5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/npcdbc-1.0-24w36-03-save_fix.jar!/" />
+      <root url="jar://$PROJECT_DIR$/NBArmors-2.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/npcgecko-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JFamilyC-v1.2.18.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ExtraAmor v0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JBRA-Client-v1.6.52.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Armourers-Workshop-1.7.10-0.48.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JRMCore-v1.3.51.jar!/" />
+      <root url="jar://$PROJECT_DIR$/npcaw-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/+unimixins-all-1.7.10-0.1.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dbcproject-8723fe9-minimal+8723fe9eb1-dirty.jar!/" />
+      <root url="jar://$PROJECT_DIR$/[1.7.10]bspkrsCore-universal-6.16 (1).jar!/" />
+      <root url="jar://$PROJECT_DIR$/OptiFine_1.7.10_HD_U_E7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geckolib-unofficial-1.7.10-1.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DragonBlockC-v1.4.85.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JYearsC-v1.2.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
