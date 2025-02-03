@@ -4,7 +4,7 @@ fov:0.0
 gamma:1000.0
 saturation:0.0
 renderDistance:5
-guiScale:2
+guiScale:3
 particles:0
 bobView:true
 anaglyph3d:false
@@ -13,7 +13,7 @@ maxFps:70
 fboEnable:true
 difficulty:2
 fancyGraphics:false
-ao:0
+ao:1
 clouds:true
 resourcePacks:["DBC Brasil.zip"]
 lastServer:
@@ -104,7 +104,7 @@ key_Calendar:22
 key_key.plug.orient:25
 key_key.plug.transform:38
 key_keys.armourersworkshop.equipmentWardrobe:25
-key_keys.armourersworkshop.undo:44
+key_keys.armourersworkshop.undo:52
 key_Form Wheel:21
 soundCategory_master:0.44701988
 soundCategory_music:0.0
@@ -112,6 +112,6 @@ soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0
 soundCategory_hostile:1.0
-soundCategory_neutral:1.0
+soundCategory_neutral:0.07746479
 soundCategory_player:1.0
 soundCategory_ambient:1.0
