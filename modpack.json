@@ -1,1 +1,106 @@
-{"mods":[{"name":"+unimixins-all-1.7.10-0.2.1.jar","downloadURL":"https://github.com/dbcbrasil/modpack/raw/refs/heads/main/+unimixins-all-1.7.10-0.2.1.jar","size":5710137,"sha1":"21db670c715e2a24eda05bd0c1d3b834e3949857"},{"name":"Armourers-Workshop-1.7.10-0.48.5.jar","downloadURL":"https://github.com/dbcbrasil/modpack/raw/refs/heads/main/Armourers-Workshop-1.7.10-0.48.5.jar","size":2089120,"sha1":"bd7f58d9d9d25bdd613442eb049ed54f127b3123"},{"name":"DragonBlockC-v1.4.85.jar","downloadURL":"https://github.com/dbcbrasil/modpack/raw/refs/heads/main/DragonBlockC-v1.4.85.jar","size":15187123,"sha1":"4d5d2ae7016be49c0d47aa9e54adada8fc3f27ab"},{"name":"JBRA-Client-v1.6.52.jar","downloadURL":"https://github.com/dbcbrasil/modpack/raw/refs/heads/main/JBRA-Client-v1.6.52.jar","size":129587,"sha1":"be242f62ad2768e205402adc6dc6db9214716a6d"},{"name":"JFamilyC-v1.2.17.jar","downloadURL":"https://github.com/dbcbrasil/modpack/raw/refs/heads/main/JFamilyC-v1.2.17.jar","size":145964,"sha1":"8d4f4f1d143852bd70b70e5338b770ab9fb953ce"},{"name":"JRMCore-v1.3.51.jar","downloadURL":"https://github.com/dbcbrasil/modpack/raw/refs/heads/main/JRMCore-v1.3.51.jar","size":2560555,"sha1":"b0d22df0da95a0456b3b79da3b0e8673a1cafcfb"},{"name":"JYearsC-v1.2.3.jar","downloadURL":"https://github.com/dbcbrasil/modpack/raw/refs/heads/main/JYearsC-v1.2.3.jar","size":58728,"sha1":"7db08301149c098b18bd2509934e95ddc560ecdf"},{"name":"JinRyuu's-HDSkins-Mod-1.7.10-v1.3.1.jar","downloadURL":"https://github.com/dbcbrasil/modpack/raw/refs/heads/main/JinRyuu's-HDSkins-Mod-1.7.10-v1.3.1.jar","size":23139,"sha1":"e5145b60250c0bd39763c234054f21aa39d6ffff"},{"name":"NBArmors-3.1.jar","downloadURL":"https://github.com/dbcbrasil/modpack/raw/refs/heads/main/NBArmors-3.1.jar","size":4333493,"sha1":"08a24a364446e2542cc17d3a3ede5c3a203b16af"},{"name":"beddium-mc1.7.10-1.2.3-j21.jar","downloadURL":"https://github.com/dbcbrasil/modpack/raw/refs/heads/main/beddium-mc1.7.10-1.2.3-j21.jar","size":816099,"sha1":"815ee585eabd83369025ce89b520345e39f257f5"},{"name":"dbcproject-39b46d6-pojav+39b46d6d08-dirty.jar","downloadURL":"https://github.com/dbcbrasil/modpack/raw/refs/heads/main/dbcproject-39b46d6-pojav+39b46d6d08-dirty.jar","size":36607870,"sha1":"0876e29a01c6e20e7d5e9f53ea2b11a21b39eeb6"},{"name":"falsepatternlib-mc1.7.10-1.10.7.jar","downloadURL":"https://github.com/dbcbrasil/modpack/raw/refs/heads/main/falsepatternlib-mc1.7.10-1.10.7.jar","size":977143,"sha1":"ffa836c2f20d348795bc168d9bce670db2fa260e"},{"name":"falsetweaks-mc1.7.10-4.4.0.jar","downloadURL":"https://github.com/dbcbrasil/modpack/raw/refs/heads/main/falsetweaks-mc1.7.10-4.4.0.jar","size":800768,"sha1":"37397a9b51224fc05e79cc099004146b6081cf67"},{"name":"lwjgl3ify-3.0.15.jar","downloadURL":"https://github.com/dbcbrasil/modpack/raw/refs/heads/main/lwjgl3ify-3.0.15.jar","size":8246823,"sha1":"568cb11e7717e2a34d2152adc6adbd95f78b9830"},{"name":"npcdbc-1.2.1.jar","downloadURL":"https://github.com/dbcbrasil/modpack/raw/refs/heads/main/npcdbc-1.2.1.jar","size":20833557,"sha1":"c3a03f3e08503a578e92f48918b7a9c878407353"},{"name":"smart_particles+mc1.7.10-7.10.9a-Forge.jar","downloadURL":"https://github.com/dbcbrasil/modpack/raw/refs/heads/main/smart_particles+mc1.7.10-7.10.9a-Forge.jar","size":47009,"sha1":"4b1ac65856fc4d26cc7015f1f822f785d3eaee93"},{"name":"standalone-JaninoLoader-1.0.2.jar","downloadURL":"https://github.com/dbcbrasil/modpack/raw/refs/heads/main/standalone-JaninoLoader-1.0.2.jar","size":1177125,"sha1":"96fc45fba74e5bfe3967b48edc2245eca9042099"}]}
+{
+  "mods": [
+    {
+      "name": "+unimixins-all-1.7.10-0.2.1.jar",
+      "downloadURL": "https://github.com/dbcbrasil/modpack/raw/refs/heads/main/+unimixins-all-1.7.10-0.2.1.jar",
+      "size": 5710137,
+      "sha1": "21db670c715e2a24eda05bd0c1d3b834e3949857"
+    },
+    {
+      "name": "Armourers-Workshop-1.7.10-0.48.5.jar",
+      "downloadURL": "https://github.com/dbcbrasil/modpack/raw/refs/heads/main/Armourers-Workshop-1.7.10-0.48.5.jar",
+      "size": 2089120,
+      "sha1": "bd7f58d9d9d25bdd613442eb049ed54f127b3123"
+    },
+    {
+      "name": "DragonBlockC-v1.4.85.jar",
+      "downloadURL": "https://github.com/dbcbrasil/modpack/raw/refs/heads/main/DragonBlockC-v1.4.85.jar",
+      "size": 15187123,
+      "sha1": "4d5d2ae7016be49c0d47aa9e54adada8fc3f27ab"
+    },
+    {
+      "name": "JBRA-Client-v1.6.52.jar",
+      "downloadURL": "https://github.com/dbcbrasil/modpack/raw/refs/heads/main/JBRA-Client-v1.6.52.jar",
+      "size": 129587,
+      "sha1": "be242f62ad2768e205402adc6dc6db9214716a6d"
+    },
+    {
+      "name": "JFamilyC-v1.2.17.jar",
+      "downloadURL": "https://github.com/dbcbrasil/modpack/raw/refs/heads/main/JFamilyC-v1.2.17.jar",
+      "size": 145964,
+      "sha1": "8d4f4f1d143852bd70b70e5338b770ab9fb953ce"
+    },
+    {
+      "name": "JRMCore-v1.3.51.jar",
+      "downloadURL": "https://github.com/dbcbrasil/modpack/raw/refs/heads/main/JRMCore-v1.3.51.jar",
+      "size": 2560555,
+      "sha1": "b0d22df0da95a0456b3b79da3b0e8673a1cafcfb"
+    },
+    {
+      "name": "JYearsC-v1.2.3.jar",
+      "downloadURL": "https://github.com/dbcbrasil/modpack/raw/refs/heads/main/JYearsC-v1.2.3.jar",
+      "size": 58728,
+      "sha1": "7db08301149c098b18bd2509934e95ddc560ecdf"
+    },
+    {
+      "name": "JinRyuu's-HDSkins-Mod-1.7.10-v1.3.1.jar",
+      "downloadURL": "https://github.com/dbcbrasil/modpack/raw/refs/heads/main/JinRyuu's-HDSkins-Mod-1.7.10-v1.3.1.jar",
+      "size": 23139,
+      "sha1": "e5145b60250c0bd39763c234054f21aa39d6ffff"
+    },
+    {
+      "name": "NBArmors-3.1.jar",
+      "downloadURL": "https://github.com/dbcbrasil/modpack/raw/refs/heads/main/NBArmors-3.1.jar",
+      "size": 4333493,
+      "sha1": "08a24a364446e2542cc17d3a3ede5c3a203b16af"
+    },
+    {
+      "name": "beddium-mc1.7.10-1.2.3-j21.jar",
+      "downloadURL": "https://github.com/dbcbrasil/modpack/raw/refs/heads/main/beddium-mc1.7.10-1.2.3-j21.jar",
+      "size": 816099,
+      "sha1": "815ee585eabd83369025ce89b520345e39f257f5"
+    },
+    {
+      "name": "dbcproject-39b46d6-pojav+39b46d6d08-dirty.jar",
+      "downloadURL": "https://github.com/dbcbrasil/modpack/raw/refs/heads/main/dbcproject-39b46d6-pojav+39b46d6d08-dirty.jar",
+      "size": 36521858,
+      "sha1": "7e539019f3243b4ae1a53336f4e91173bad3992b"
+    },
+    {
+      "name": "falsepatternlib-mc1.7.10-1.10.7.jar",
+      "downloadURL": "https://github.com/dbcbrasil/modpack/raw/refs/heads/main/falsepatternlib-mc1.7.10-1.10.7.jar",
+      "size": 977143,
+      "sha1": "ffa836c2f20d348795bc168d9bce670db2fa260e"
+    },
+    {
+      "name": "falsetweaks-mc1.7.10-4.4.0.jar",
+      "downloadURL": "https://github.com/dbcbrasil/modpack/raw/refs/heads/main/falsetweaks-mc1.7.10-4.4.0.jar",
+      "size": 800768,
+      "sha1": "37397a9b51224fc05e79cc099004146b6081cf67"
+    },
+    {
+      "name": "lwjgl3ify-3.0.15.jar",
+      "downloadURL": "https://github.com/dbcbrasil/modpack/raw/refs/heads/main/lwjgl3ify-3.0.15.jar",
+      "size": 8246823,
+      "sha1": "568cb11e7717e2a34d2152adc6adbd95f78b9830"
+    },
+    {
+      "name": "npcdbc-1.2.1.jar",
+      "downloadURL": "https://github.com/dbcbrasil/modpack/raw/refs/heads/main/npcdbc-1.2.1.jar",
+      "size": 20833557,
+      "sha1": "c3a03f3e08503a578e92f48918b7a9c878407353"
+    },
+    {
+      "name": "smart_particles+mc1.7.10-7.10.9a-Forge.jar",
+      "downloadURL": "https://github.com/dbcbrasil/modpack/raw/refs/heads/main/smart_particles+mc1.7.10-7.10.9a-Forge.jar",
+      "size": 47009,
+      "sha1": "4b1ac65856fc4d26cc7015f1f822f785d3eaee93"
+    },
+    {
+      "name": "standalone-JaninoLoader-1.0.2.jar",
+      "downloadURL": "https://github.com/dbcbrasil/modpack/raw/refs/heads/main/standalone-JaninoLoader-1.0.2.jar",
+      "size": 1177125,
+      "sha1": "96fc45fba74e5bfe3967b48edc2245eca9042099"
+    }
+  ]
+}
