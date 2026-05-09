@@ -137,7 +137,7 @@ def main():
     version = args.version
 
     # ── Pasta raiz ──────────────────────────────────────────────────────
-    print(f"📂 Escaneando: {modpack_dir}")
+    print(f"Escaneando: {modpack_dir}")
     root_jars = collect_jars(modpack_dir)
     print(f"   Encontrados {len(root_jars)} mod(s) na raiz.")
 
@@ -146,21 +146,21 @@ def main():
     update_js_content = generate_update_js(root_jars, base_url, version)
     with open(update_js_path, "w", encoding="utf-8", newline="\n") as f:
         f.write(update_js_content)
-    print(f"   ✅ {update_js_path}")
+    print(f"   -> {update_js_path}")
 
     # modpack.json
     modpack_json_path = os.path.join(modpack_dir, "modpack.json")
     modpack_json_content = generate_modpack_json(root_jars, base_url)
     with open(modpack_json_path, "w", encoding="utf-8", newline="\n") as f:
         f.write(modpack_json_content)
-    print(f"   ✅ {modpack_json_path}")
+    print(f"   -> {modpack_json_path}")
 
     # ── Subpasta pojav (se existir e tiver .jar) ───────────────────────
     pojav_dir = os.path.join(modpack_dir, "pojav")
     if os.path.isdir(pojav_dir):
         pojav_jars = collect_jars(pojav_dir)
         if pojav_jars:
-            print(f"\n📂 Escaneando: {pojav_dir}")
+            print(f"\nEscaneando: {pojav_dir}")
             print(f"   Encontrados {len(pojav_jars)} mod(s) no pojav.")
 
             pojav_update_path = os.path.join(pojav_dir, "update.js")
@@ -169,12 +169,12 @@ def main():
             )
             with open(pojav_update_path, "w", encoding="utf-8", newline="\n") as f:
                 f.write(pojav_update_content)
-            print(f"   ✅ {pojav_update_path}")
+            print(f"   -> {pojav_update_path}")
         else:
-            print(f"\n⚠️  Pasta pojav existe mas não contém .jar — update.js pojav não gerado.")
+            print(f"\n(!) Pasta pojav existe mas nao contem .jar — update.js pojav nao gerado.")
 
     # ── Resumo ──────────────────────────────────────────────────────────
-    print("\n🎉 Geração concluída!")
+    print("\nGeracao concluida!")
     print(f"   Versão: {version}")
     print(f"   Base URL: {base_url}")
     print(f"   Mods (raiz): {len(root_jars)}")
