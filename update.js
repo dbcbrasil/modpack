@@ -9,7 +9,7 @@ https://github.com/dbcbrasil/modpack/raw/refs/heads/main/JYearsC-v1.2.3.jar|
 https://github.com/dbcbrasil/modpack/raw/refs/heads/main/JinRyuu's-HDSkins-Mod-1.7.10-v1.3.1.jar|
 https://github.com/dbcbrasil/modpack/raw/refs/heads/main/NBArmors-3.1.jar|
 https://github.com/dbcbrasil/modpack/raw/refs/heads/main/beddium-mc1.7.10-1.2.3-j21.jar|
-https://github.com/dbcbrasil/modpack/raw/refs/heads/main/dbcproject-abbe37b-pojav+abbe37b67a-dirty.jar|
+https://github.com/dbcbrasil/modpack/raw/refs/heads/main/dbcproject-39b46d6-pojav+39b46d6d08-dirty.jar|
 https://github.com/dbcbrasil/modpack/raw/refs/heads/main/falsepatternlib-mc1.7.10-1.10.7.jar|
 https://github.com/dbcbrasil/modpack/raw/refs/heads/main/falsetweaks-mc1.7.10-4.4.0.jar|
 https://github.com/dbcbrasil/modpack/raw/refs/heads/main/lwjgl3ify-3.0.15.jar|
